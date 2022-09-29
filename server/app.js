@@ -6,6 +6,6 @@ app.get("/", function(req,res){
     res.send("Welcome to BasketCentre! A world full of basketball news and topics!");
 });
 
-app.listen(3000, function(){
-    console.log("SERVER STARTED ON localhost:3000");
+app.listen(3030, function(){
+    console.log("SERVER STARTED ON localhost:3030");
 });
